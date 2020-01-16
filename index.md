@@ -260,10 +260,6 @@ You can use the buttons at the top of the page to navigate through the Glossary 
 This ML glossary repo was [forked from this H3ABioNet-SOPs repo](https://github.com/h3abionet/H3ABionet-SOPs). Contributions are welcome! To do so, open an issue or a pull request. Additionally, check out our [contribution guide]({{ site.baseurl}}{% link pages/contributing/cont_tech-guide-1.md %}).
 
 -------------------
-## Choosing the right estimator 
-![ML map](https://scikit-learn.org/stable/_static/ml_map.png)
-Figure 1: Flowchart to choose the right estimator. Taken from: http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html (website provides links to associated documentation, © 2007 - 2017, scikit-learn developers, BSD License)
-
 # Types of Machine Learning Algorithms:
 There are several main types of machine learning algorithms in common use: supervised, unsupervised, semi-supervised, reinforcement learning and statistical methods:
 
