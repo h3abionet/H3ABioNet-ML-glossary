@@ -252,8 +252,7 @@ function update(source) {
 * [Supervised Learning]({{ site.baseurl}}{% link pages/categories/supervised/supervised_learning.md %})
 * [Unsupervised Learning]({{ site.baseurl}}{% link pages/categories/unsupervised/unsupervised_learning.md %})
 * [Data preprocessing]({{ site.baseurl}}{% link pages/genomics_analysis/RNA-Seq/RNA-Seq-1-0.md %})
-
-
+* [Choosing the right estimator]({{ site.baseurl}}{% link pages/choosing_estimator/choosing_estimator.md %})
 
 
 You can use the buttons at the top of the page to navigate through the Glossary different terms, or the side panel to access the subsections within each.
