@@ -1,0 +1,1 @@
+Clustering is an unsupervised approach that involves grouping data points according to their properties or features. Examples include K-Means clustering, Mean-Shift clustering, DBSCAN (Density-based spatial clustering of applications with noise), Expectation-Maximisation (EM) clustering using Gaussian Mixture Models (GMM), Agglomerative hierarchical clustering
