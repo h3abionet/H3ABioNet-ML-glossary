@@ -12,4 +12,10 @@ authors:
  - ShakunBaichoo
 ---
 
-Regression is used to describe, or model, the relationship between the set of features in a dataset, and a continuous numerical response (output). In ML, regression is applied to predict a real value or a probability. Some examples include simple and multiple linear regression – fitting a line to the data, ridge regression, Lasso, nearest neighbours and Kernel regression.
+Regression is used to describe (or model) the relationship between the set of features (samples) in a dataset and a corresponding set of continuous numerical response variables (outputs). Some examples include simple and multiple linear regression (these fit a linear model to the input training data), ridge regression, Lasso, nearest neighbours and Kernel regression. 
+| Classification | Regression |
+|---|---|
+| Discrete, categorical variable                      | Continuous (real number range) |
+| Supervised classification problem                   | Supervised classification problem |
+| Assign the output to a class (a label)              | Predict the output value using training data |
+| Predict the type of tumour (harmful vs not harmful) | Predict a house price, predict survival time |
