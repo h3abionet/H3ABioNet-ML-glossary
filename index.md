@@ -274,6 +274,12 @@ These approaches use a training dataset where the outcome is known, and the rela
   <tr colspan="2">
     <td>Labelled training set used to induce classification rules.</td>
   </tr>
+  <tr colspan="2">
+    <td>Dataset:</td>
+  </tr>
+  <tr>
+    <td>Contains elements (instances), which fall in classes assigned by features and classification rules</td>
+  </tr>
 </table>
 
 ## ii) Unsupervised learning algorithms.
