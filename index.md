@@ -320,19 +320,21 @@ These approaches use a training dataset where the outcome is known, and the rela
         <td colspan = "2"><strong>Commonly used algorithms:</strong></td>
     </tr>
     <tr>
-        <ul>
-            <li>Linear regression</li> 
-            <li>Logistic regression</li>
-            <li>Decision tree</li>
-            <li>Support Vector Machines</li>
-            <li>Naïve Bayes</li>
-            <li>K-Nearest Neighbours</li>
-            <li>Random Forest</li>
-            <li>Dimensionality Reduction Algorithms</li>
-            <li>Gradient Boosting Algorithms</li>
-            <li>Neural Networks</li>
-            <li>Association Rules</li>
-        </ul>
+        <td>
+            <ul>
+                <li>Linear regression</li> 
+                <li>Logistic regression</li>
+                <li>Decision tree</li>
+                <li>Support Vector Machines</li>
+                <li>Naïve Bayes</li>
+                <li>K-Nearest Neighbours</li>
+                <li>Random Forest</li>
+                <li>Dimensionality Reduction Algorithms</li>
+                <li>Gradient Boosting Algorithms</li>
+                <li>Neural Networks</li>
+                <li>Association Rules</li>
+            </ul>
+        </td>
     </tr>
 </table>
 <!--- Table end :Work around for adding tables with merged columns/rows -->
