@@ -266,85 +266,76 @@ There are several main types of machine learning algorithms in common use: super
 ## i) Supervised learning approaches
 These approaches use a training dataset where the outcome is known, and the relationship between a set of predictors (independent variables, risk factors) and the outcome can be modelled, and then tested on a test set as well as used to predict the outcome where it is not known.
 
-<!--- Table begin :Work around for adding tables with merged columns/rows -->
-        <table>
-            <tr>
-              <td colspan="2"> <strong>Supervised Machine Learning</strong> <br/>Labelled training set used to induce classification rules.</td>
-            </tr>
-            
-            <tr>
-              <td colspan="2"><strong>Dataset:</strong> </br>Contains elements (instances), which fall in classes assigned by features and classification rules</td>
-            </tr>
-            
-            <tr>
-              <td><strong>Feature Subset Selection:</strong><br/>
-                  Evaluation function measures effectiveness of feature subset by:
-                  <ul>
-                      <li>wrapper: error reported by evaluation function</li>
-                      <li>filter</li>
-                      <li>search-halting: non-improvement of classifier (algorithm)</li>
-
-                  </ul>
-              </td>
-            </tr>
-            
-            <tr>
-                <td colspan="2"><strong>Search strategy:</strong></td>
-            </tr>
-            
-            <tr>
-                <td>Optimal:<br/>exhaustive, all possible subsets
-                    <ul>
-                        <li>depth-first</li>
-                        <li>breadth-first</li>
-                        <li>branch and bound for monotonic evaluation functions</li>
-                    </ul>
-                </td>
-            </tr>
-            
-            <tr>
-                <td>
-                    <strong>Predict outcome:</strong><br/>
-                    Assess/compare algorithms using receiver operating characteristics (ROC). 
-                    Metrics derived from contingency tables for discrete labels; correlation, MSE, error analysis for continuous data labels.
-
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    Test dataset: validation to determine classification error
-                </td>
-                <td>
-                    No test dataset: 
-                    <ul>
-                        <li>resubstitution estimator</li>
-                        <li>leave one out/k-fold cross validation</li>
-                        <li>bootstrap methodology</li>
-                    </ul>
-                </td>
-            </tr>
-            
-            <tr>
-                <td colspan = "2"><strong>Commonly used algorithms:</strong></td>
-            </tr>
-            
-            <tr>
-                <ul>
-                    <li>Linear regression</li> 
-                    <li>Logistic regression</li>
-                    <li>Decision tree</li>
-                    <li>Support Vector Machines</li>
-                    <li>Naïve Bayes</li>
-                    <li>K-Nearest Neighbours</li>
-                    <li>Random Forest</li>
-                    <li>Dimensionality Reduction Algorithms</li>
-                    <li>Gradient Boosting Algorithms</li>
-                    <li>Neural Networks</li>
-                    <li>Association Rules</li>
-                </ul>
-            </tr>
-        </table>
-        <!--- Table end :Work around for adding tables with merged columns/rows -->
+<!--- Table begin :Work around for adding tables with merged columns/rows --->
+<table>
+    <tr>
+      <td colspan="2"> <strong>Supervised Machine Learning</strong> <br/>Labelled training set used to induce classification rules.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Dataset:</strong> </br>Contains elements (instances), which fall in classes assigned by features and classification rules</td>
+    </tr>
+    <tr>
+      <td><strong>Feature Subset Selection:</strong><br/>
+          Evaluation function measures effectiveness of feature subset by:
+          <ul>
+              <li>wrapper: error reported by evaluation function</li>
+              <li>filter</li>
+              <li>search-halting: non-improvement of classifier (algorithm)</li>
+          </ul>
+      </td>
+    </tr>
+    <tr>
+        <td colspan="2"><strong>Search strategy:</strong></td>
+    </tr>
+    <tr>
+        <td>Optimal:<br/>exhaustive, all possible subsets
+            <ul>
+                <li>depth-first</li>
+                <li>breadth-first</li>
+                <li>branch and bound for monotonic evaluation functions</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Predict outcome:</strong><br/>
+            Assess/compare algorithms using receiver operating characteristics (ROC). 
+            Metrics derived from contingency tables for discrete labels; correlation, MSE, error analysis for continuous data labels.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Test dataset: validation to determine classification error
+        </td>
+        <td>
+            No test dataset: 
+            <ul>
+                <li>resubstitution estimator</li>
+                <li>leave one out/k-fold cross validation</li>
+                <li>bootstrap methodology</li>
+            </ul>
+        </td>
+    </tr>            
+    <tr>
+        <td colspan = "2"><strong>Commonly used algorithms:</strong></td>
+    </tr>
+    <tr>
+        <ul>
+            <li>Linear regression</li> 
+            <li>Logistic regression</li>
+            <li>Decision tree</li>
+            <li>Support Vector Machines</li>
+            <li>Naïve Bayes</li>
+            <li>K-Nearest Neighbours</li>
+            <li>Random Forest</li>
+            <li>Dimensionality Reduction Algorithms</li>
+            <li>Gradient Boosting Algorithms</li>
+            <li>Neural Networks</li>
+            <li>Association Rules</li>
+        </ul>
+    </tr>
+</table>
+<!--- Table end :Work around for adding tables with merged columns/rows -->
 
 ## ii) Unsupervised learning algorithms.
 These algorithms are used where there is no target or outcome variable to predict, and the primary aim is to identify clusters of items in a dataset according to specific features or characteristics. The computer learns to identify patterns in the data without human guidance about how the different clusters should be determined. 
