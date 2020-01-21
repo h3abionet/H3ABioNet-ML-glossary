@@ -352,14 +352,16 @@ These algorithms are used where there is no target or outcome variable to predic
         </td>
     </tr>
     <tr>
-        <td><strong>Dataset:</strong> contains unlabelled data. </td>
+        <td>
+          <strong>Dataset:</strong> contains unlabelled data. 
+        </td>
     </tr>
     <tr>
         <td>Mine for rules, detect patterns, summarise and group data points</td>
     </tr>
     <tr>
         <td>
-            <strong>Commonly used algorithms:</strong>>
+            <strong>Commonly used algorithms:</strong>
         </td>
     </tr>
     <tr>
@@ -453,8 +455,10 @@ These are used to train a machine to make specific decisions and then continuall
 | field1 | field2 |
 |---|---|
 
-%figure (upload Fig 1b and 2)
-
+<img src="figures/figure1b.png">
+<br/>
+<img src="figures/figure2.png">
+<br/>
 ## Summary of some applications of ML in Bioinformatics
 
 | Type of ML | Algorithm name | Bioinformatics application [refs] |
