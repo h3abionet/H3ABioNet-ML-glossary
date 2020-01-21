@@ -456,14 +456,14 @@ These are used to train a machine to make specific decisions and then continuall
 |---|---|
 <figure>
   <img src="figures/figure1b.png">
-  <figcaption>Figure 1b. Machine Learning Types</figcaption>
+  <figcaption><strong>Figure 1b.</strong> Machine Learning Types</figcaption>
 </figure>
-<br/>
+<br/><br/>
 <figure>
   <img src="figures/figure2.png">
-  <figcaption>Figure 2: Classification of methods in common use in Machine Learning</figcaption>
+  <figcaption><strong>Figure 2:</strong> Classification of methods in common use in Machine Learning</figcaption>
 </figure>  
-  <br/>
+  <br/><br/>
 ## Summary of some applications of ML in Bioinformatics
 
 | Type of ML | Algorithm name | Bioinformatics application [refs] |
