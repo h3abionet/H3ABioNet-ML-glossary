@@ -266,7 +266,7 @@ There are several main types of machine learning algorithms in common use: super
 ## i) Supervised learning approaches
 These approaches use a training dataset where the outcome is known, and the relationship between a set of predictors (independent variables, risk factors) and the outcome can be modelled, and then tested on a test set as well as used to predict the outcome where it is not known.
 
-<!--- Table begin :Work around for adding tables with merged columns/rows --->
+<!-- Table begin :Work around for adding tables with merged columns/rows -->
 <table>
     <tr>
       <td colspan="2"> <strong>Supervised Machine Learning</strong> <br/>Labelled training set used to induce classification rules.</td>
@@ -337,12 +337,12 @@ These approaches use a training dataset where the outcome is known, and the rela
         </td>
     </tr>
 </table>
-<!--- Table end :Work around for adding tables with merged columns/rows -->
+<!-- Table end :Work around for adding tables with merged columns/rows -->
 
 ## ii) Unsupervised learning algorithms.
 These algorithms are used where there is no target or outcome variable to predict, and the primary aim is to identify clusters of items in a dataset according to specific features or characteristics. The computer learns to identify patterns in the data without human guidance about how the different clusters should be determined. 
 
-<!--- Unsupervised learning table begin :Work around for adding tables with merged columns/rows -->
+<!-- Unsupervised learning table begin :Work around for adding tables with merged columns/rows -->
 <table>
     <tr>
         <td><strong>Unsupervised Machine Learning</strong><br/>
@@ -371,12 +371,12 @@ These algorithms are used where there is no target or outcome variable to predic
         </td>
     </tr>
 </table>
-<!--- Unsupervised learning table end :Work around for adding tables with merged columns/rows -->
+<!-- Unsupervised learning table end :Work around for adding tables with merged columns/rows -->
 
 ## iii) Semi-supervised learning algorithms 
 These fall between supervised and unsupervised ML algorithms, where only a subset of the data are labelled – so that where data are unlabelled, their features may still contribute understanding about the group parameters. 
 
-<!--- Semi-supervised learning table begin :Work around for adding tables with merged columns/rows -->
+<!-- Semi-supervised learning table begin-->
 <table>
     <tr>
         <td><strong>Semi-supervised Machine Learning:</strong><br/>
@@ -406,13 +406,45 @@ These fall between supervised and unsupervised ML algorithms, where only a subse
         </td>
     </tr>
 </table>
-<!--- Semi-supervised learning table end :Work around for adding tables with merged columns/rows -->
+<!-- Semi-supervised learning table end -->
 
 ## iv) Reinforcement learning algorithms
 These are used to train a machine to make specific decisions and then continually improve this process through trial-and-error – learning from past experience and capturing knowledge to improve decision-making. The reinforcement learning algorithm (or agent) learns iteratively from experience, with feedback that acts as the reinforcement signal to modify the algorithm’s behaviour.
 
-| field1 | field2 |
-|---|---|
+<!-- Reinforcement Learning table begin-->
+<table>
+    <tr>
+        <td>
+            <strong>Reinforcement Machine Learning:</strong><br/>
+                    Learning from environment in an iterative process and modifying actions accordingly
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Dataset:</strong> contains unlabelled data. 
+        </td>
+    </tr>  
+    <tr>
+        <td>
+            <strong>Markov Decision Process:</strong> Agent records input state, performs an action, receives measure from environment. The state-action paired data are stored.   
+        </td>
+    </tr> 
+    <tr>
+        <td>
+            <strong>Commonly used algorithms: </strong>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Q-Learning </li>
+                <li>Temporal Difference </li>
+                <li>Deep Adversarial Networks</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<!-- Reinforcement Learning table end -->
 
 ## v) Statistical methods. 
 
