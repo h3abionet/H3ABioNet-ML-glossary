@@ -266,7 +266,7 @@ There are several main types of machine learning algorithms in common use: super
 ## i) Supervised learning approaches
 These approaches use a training dataset where the outcome is known, and the relationship between a set of predictors (independent variables, risk factors) and the outcome can be modelled, and then tested on a test set as well as used to predict the outcome where it is not known.
 
-<!--- Work around for adding tables with merged columns/rows -->
+<!--- Table begin :Work around for adding tables with merged columns/rows -->
 <table>
   <tr colspan="2">
     <th>Supervised Machine Learning</th>
@@ -275,12 +275,13 @@ These approaches use a training dataset where the outcome is known, and the rela
     <td>Labelled training set used to induce classification rules.</td>
   </tr>
   <tr colspan="2">
-    <td>Dataset:</td>
+    <th>Dataset:</th>
   </tr>
   <tr>
     <td>Contains elements (instances), which fall in classes assigned by features and classification rules</td>
   </tr>
 </table>
+<!--- Table end :Work around for adding tables with merged columns/rows -->
 
 ## ii) Unsupervised learning algorithms.
 These algorithms are used where there is no target or outcome variable to predict, and the primary aim is to identify clusters of items in a dataset according to specific features or characteristics. The computer learns to identify patterns in the data without human guidance about how the different clusters should be determined. 
