@@ -466,7 +466,7 @@ These are used to train a machine to make specific decisions and then continuall
   <br/><br/>
 ## Summary of some applications of ML in Bioinformatics
 
-| Type of ML | Algorithm name | Bioinformatics application [refs] |
+| Type of ML | Algorithm name | Bioinformatics application|
 |---|---|---|
 |Supervised|Linear regression|Correlating the codon usage pattern with the protein regulation level using linear regression models [Bioinformatics study of the relationship between protein regulation and sequence properties](https://doi.org/10.1016/j.ygeno.2012.07.003)|
 ||Logistic Regression|Logistic regression for disease classification using microarray data: model selection in a large p and small n case [article](https://doi.org/10.1093/bioinformatics/btm287)|
