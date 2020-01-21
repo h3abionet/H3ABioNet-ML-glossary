@@ -268,6 +268,7 @@ These approaches use a training dataset where the outcome is known, and the rela
 
 | field1 | field2 |
 |---|---|
+|Labelled training set used to induce classification rules.|
 
 ## ii) Unsupervised learning algorithms.
 These algorithms are used where there is no target or outcome variable to predict, and the primary aim is to identify clusters of items in a dataset according to specific features or characteristics. The computer learns to identify patterns in the data without human guidance about how the different clusters should be determined. 
