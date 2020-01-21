@@ -376,8 +376,37 @@ These algorithms are used where there is no target or outcome variable to predic
 ## iii) Semi-supervised learning algorithms 
 These fall between supervised and unsupervised ML algorithms, where only a subset of the data are labelled – so that where data are unlabelled, their features may still contribute understanding about the group parameters. 
 
-| field1 | field2 |
-|---|---|
+<!--- Semi-supervised learning table begin :Work around for adding tables with merged columns/rows -->
+<table>
+    <tr>
+        <td><strong>Semi-supervised Machine Learning:</strong><br/>
+            Framework for leveraging unlabeled data when labels are limited or expensive to obtain. In addition to unlabeled data, it is provided with some supervision information – but not necessarily for all examples.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Typically uses a small amount of labeled data along with a large amount of unlabeled data.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Commonly used algorithms</strong>:
+            <ul>
+                <li>Generative Models</li>
+                <li>Low-Density Separation</li>
+                <li>Graph-Based Methods</li>
+                <li>Change of Representation</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Use of semi-supervised algorithms:</strong> <br/>
+                    Protein sequences are currently acquired at industrial speed (by genome sequencing, computational gene finding, and automatic translation), but to resolve a three dimensional (3D) structure or to determine the functions of a single protein may require years of scientific work, unless we use semi-supervised learning methods.
+        </td>
+    </tr>
+</table>
+<!--- Semi-supervised learning table end :Work around for adding tables with merged columns/rows -->
 
 ## iv) Reinforcement learning algorithms
 These are used to train a machine to make specific decisions and then continually improve this process through trial-and-error – learning from past experience and capturing knowledge to improve decision-making. The reinforcement learning algorithm (or agent) learns iteratively from experience, with feedback that acts as the reinforcement signal to modify the algorithm’s behaviour.
