@@ -271,8 +271,8 @@ These approaches use a training dataset where the outcome is known, and the rela
   <tr colspan="2">
     <th>Supervised Machine Learning</th>
   <tr>
-  <tr>
-    <td>test</td>
+  <tr colspan="2">
+    <td>Labelled training set used to induce classification rules.</td>
   </tr>
 </table>
 
