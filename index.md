@@ -272,7 +272,7 @@ These approaches use a training dataset where the outcome is known, and the rela
       <td colspan="2"> <strong>Supervised Machine Learning</strong> <br/>Labelled training set used to induce classification rules.</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Dataset:</strong> </br>Contains elements (instances), which fall in classes assigned by features and classification rules</td>
+      <td colspan="2"><strong>Dataset:</strong> <br/>Contains elements (instances), which fall in classes assigned by features and classification rules</td>
     </tr>
     <tr>
       <td><strong>Feature Subset Selection:</strong><br/>
