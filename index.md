@@ -317,7 +317,7 @@ These approaches use a training dataset where the outcome is known, and the rela
         </td>
     </tr>            
     <tr>
-        <td colspan = "2"><strong>Commonly used algorithms:</strong></td>
+        <td colspan = "2"><strong>Commonly used algorithms: </strong></td>
     </tr>
     <tr>
         <td>
