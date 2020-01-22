@@ -62,8 +62,8 @@ var treeData =
                   {
                     "name": "Supervised learning",
                     "children": [
-                      {"name" : "Predicta group\nclassification"},
-                      {"name" : "Predict a continuous value\nregression"}
+                      {"name" : "Predicta group (classification)"},
+                      {"name" : "Predict a continuous value (regression)"}
                       ]
                       }
                     ]
