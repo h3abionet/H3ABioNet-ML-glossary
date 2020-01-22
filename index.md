@@ -54,9 +54,10 @@ var treeData =
         "name": "Good data size",
         "children": [
           {
-          "name": "Pre-processing",
-          "children": [
-            { "name": "Known outcomes" }]
+            "name": "Pre-processing",
+            "children": [
+              { "name": "Known outcomes" },
+              { "name": "Unknown outcomes" }]
           }
         ]
       }
