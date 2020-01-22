@@ -275,7 +275,7 @@ These approaches use a training dataset where the outcome is known, and the rela
       <td colspan="2"><strong>Dataset:</strong> <br/>Contains elements (instances), which fall in classes assigned by features and classification rules</td>
     </tr>
     <tr>
-      <td><strong>Feature Subset Selection:</strong><br/>
+      <td colspan="2"><strong>Feature Subset Selection:</strong><br/>
           Evaluation function measures effectiveness of feature subset by:
           <ul>
               <li>wrapper: error reported by evaluation function</li>
