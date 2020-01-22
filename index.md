@@ -58,7 +58,7 @@ var treeData =
         "children": [
           { "name": "Clustering" },
           { "name": "Dimensionality Reduction" },
-          {"name": "test"}
+          { "name": "test" }
         ]
       }
     ]
