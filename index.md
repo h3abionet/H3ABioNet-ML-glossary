@@ -47,7 +47,7 @@ var treeData =
     "name": "machine learning",
     "children": [
       { 
-        "name": "Inadequate data<br/>size",
+        "name": "Inadequate data size",
         "children": [{ "name": "Enrich set" }]
       },
       { 
