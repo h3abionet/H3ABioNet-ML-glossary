@@ -34,9 +34,6 @@ Biologists no longer rely on traditional laboratories to discover novel biomarke
   stroke-width: 2px;
 }
 
-figure figcaption {
-    text-align: center;
-}
 </style>
 
 <div id="graph"></div>
@@ -61,6 +58,7 @@ var treeData =
         "children": [
           { "name": "Clustering" },
           { "name": "Dimensionality Reduction" }
+          {"name": "test"}
         ]
       }
     ]
