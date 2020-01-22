@@ -465,10 +465,11 @@ These are used to train a machine to make specific decisions and then continuall
 </table>
 <!-- Reinforcement Learning table end -->
 
-## E. Statistical methods. 
+## E. Statistical methods
 
-| field1 | field2 |
-|---|---|
+Statistics is a branch of Mathematics that deals with the description of datasets, and the inferrence of global properties of data, given random samples. Statistical methods and predictive modelling techniques are tightly entertwined with machine learning models and their quality control process, such that it is not easy to separate the two. Therefore we provide some examples of models that are more closely aligned to statistical concepts. Logistic regression, markov chains, monte carlo methods and naive Bayes are all machine learning algorithm examples where probabilities are emitted or used to infer the probability of a state. Furthermore, other algorithms such as the principal components analysis (PCA) and the Independent Component Analysis (ICA) are both statistical and are generally used to find patterns in data ...
+  
+
 <figure>
   <img src="figures/figure1b.png">
   <figcaption><strong>Figure 1b.</strong> Machine Learning Types</figcaption>
