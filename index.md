@@ -288,7 +288,7 @@ These approaches use a training dataset where the outcome is known, and the rela
         <td colspan="2"><strong>Search strategy:</strong></td>
     </tr>
     <tr>
-        <td>Optimal:<br/>exhaustive, all possible subsets
+        <td colspan="2">Optimal:<br/>exhaustive, all possible subsets
             <ul>
                 <li>depth-first</li>
                 <li>breadth-first</li>
@@ -297,7 +297,7 @@ These approaches use a training dataset where the outcome is known, and the rela
         </td>
     </tr>
     <tr>
-        <td>
+        <td colspan="2">
             <strong>Predict outcome:</strong><br/>
             Assess/compare algorithms using receiver operating characteristics (ROC). 
             Metrics derived from contingency tables for discrete labels; correlation, MSE, error analysis for continuous data labels.
