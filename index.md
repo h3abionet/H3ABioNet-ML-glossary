@@ -322,7 +322,7 @@ These approaches use a training dataset where the outcome is known, and the rela
         </td>
     </tr>
     <tr>
-        <td>
+        <td colspan="2">
             <ul>
                 <li>Linear regression</li> 
                 <li>Logistic regression</li>
