@@ -48,14 +48,16 @@ var treeData =
     "children": [
       { 
         "name": "Inadequate data size",
-        "children": [
-          { "name": "Enrich set" }
-          ]
+        "children": [{ "name": "Enrich set" }]
       },
       { 
         "name": "Good data size",
         "children": [
-          { "name": "Pre-processing" }
+          {
+          "name": "Pre-processing",
+          "children": [
+            { "name": "Known outcomes" }]
+          }
         ]
       }
     ]
