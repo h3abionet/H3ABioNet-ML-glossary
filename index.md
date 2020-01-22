@@ -47,18 +47,15 @@ var treeData =
     "name": "machine learning",
     "children": [
       { 
-        "name": "Supervised Learning",
+        "name": "Inadequate data size",
         "children": [
-          { "name": "Classification" },
-          { "name": "Regression" }
-        ]
+          { "name": "Enrich set" }
+          ]
       },
       { 
-        "name": "Unsupervised Learning",
+        "name": "Good data size",
         "children": [
-          { "name": "Clustering" },
-          { "name": "Dimensionality Reduction" },
-          { "name": "test" }
+          { "name": "Pre-processing" }
         ]
       }
     ]
