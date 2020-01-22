@@ -33,10 +33,9 @@ Biologists no longer rely on traditional laboratories to discover novel biomarke
   stroke: #ccc;
   stroke-width: 2px;
 }
-<!-- HTML figure captions styling begin-->>
+
 figure figcaption {
     text-align: center;
-<!-- HTML figure captions styling end-->>
 }
 </style>
 
