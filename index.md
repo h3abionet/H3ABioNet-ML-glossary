@@ -56,9 +56,22 @@ var treeData =
           {
             "name": "Pre-processing",
             "children": [
-              { "name": "Known outcomes",
-                "children": [ {"name": "Supervised learning"} ] },
-              { "name": "Unknown outcomes" }]
+              {
+                "name": "Known outcomes",
+                "children": [
+                  {
+                    "name": "Supervised learning",
+                    "children": [
+                      {"name" : "Predicta group\nclassification"},
+                      {"name" : "Predict a continuous value\nregression"}
+                      ]
+                      }
+                    ]
+                  },
+              {
+                "name": "Unknown outcomes"
+                }
+                ]
           }
         ]
       }
