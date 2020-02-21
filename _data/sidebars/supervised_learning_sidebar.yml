@@ -1,0 +1,67 @@
+entries:
+- title: sidebar 
+  product: Supervised Learning
+  version: 1.0
+  folders:
+
+  - title: 
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title: 
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Introduction 
+    output: web, pdf
+    folderitems:
+    - title: Introduction 
+      url: /Supervised-Learning-1-0.html
+      output: web, pdf
+    - title: Example of Supervised Learning in Omic Analysis
+      url: /Supervised-Learning-1-1.html
+      output: web, pdf
+
+  - title: Common Algorithms of Supervised Learning
+    url: /Supervised-Learning-2-0.html
+    output: web, pdf
+    folderitems:
+    - title: Linear regression 
+      url: /Linear-regression-2-1.html
+      output: web, pdf
+    - title: Decision tree	
+      url: /Decision-tree-2-2.html
+      output: web, pdf
+    - title: Support Vector Machines
+      url: /Support-Vector-Machines-2-3.html
+      output: web, pdf
+    - title: Naïve Bayes 
+      url: /Naïve-Bayes-2-4.html
+      output: web, pdf
+    - title: K-Nearest Neighbours
+      url: /K-Nearest-Neighbours-2-5.html
+      output: web, pdf
+    - title: Random Forest
+      url: /Random Forest-2-6.html
+      output: web, pdf
+    - title: Dimensionality Reduction Algorithms
+      url: /Dimensionality-Reduction-Algorithms-2-7.html
+      output: web, pdf
+    - title: Gradient Boosting Algorithms 
+      url: /Gradient-Boosting-Algorithms-2-8.html
+      output: web, pdf
+    - title: Artificial Neural Networks
+      url: /Artificial-Neural-Networks-2-9.html
+      output: web, pdf
+    - title: Association Rules
+      url: /Association-Rules-2-10.html
+      output: web, pdf
+        
+      
+      
+      
