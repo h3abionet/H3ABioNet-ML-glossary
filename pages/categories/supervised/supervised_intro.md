@@ -10,9 +10,9 @@ permalink: Supervised-Learning-1-0.html
 folder: categories/supervised
 author_profile: true
 authors:
- - Liqian_Ma
- - Amel_Ghouila
- - Shakun_Baichoo
+ - Liqian Ma
+ - Amel Ghouila
+ - Shakun Baichoo
  - Dassen Sathan
  - Olivier S.A.
  - Christopher Fields
