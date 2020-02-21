@@ -264,7 +264,7 @@ function update(source) {
 
 
 * [Introduction to Machine Learning]({{ site.baseurl}}{% link pages/introduction_to_ml.md %})
-* [Supervised Learning]({{ site.baseurl}}{% link pages/categories/supervised/supervised_learning.md %})
+* [Supervised Learning]({{ site.baseurl}}{% link pages/categories/supervised/supervised_intro.md %})
 * [Unsupervised Learning]({{ site.baseurl}}{% link pages/categories/unsupervised/unsupervised_learning.md %})
 * [Data preprocessing]({{ site.baseurl}}{% link pages/genomics_analysis/RNA-Seq/RNA-Seq-1-0.md %})
 * [Choosing the right estimator]({{ site.baseurl}}{% link pages/choosing_estimator/choosing_estimator.md %})
