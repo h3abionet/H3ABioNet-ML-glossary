@@ -13,6 +13,9 @@ authors:
  - Liqian_Ma
  - Amel_Ghouila
  - Shakun_Baichoo
+ - Dassen Sathan
+ - Olivier S.A.
+ - Christopher Fields
 ---
 
 ## Support Vector Machines 
