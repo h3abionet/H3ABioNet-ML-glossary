@@ -5,7 +5,7 @@ The live version of this website is accessible via: [https://h3abionet.github.io
 
 ## Locally building
 
-1. Clone down the repository (`git clone https://github.com/h3abionet/H3ABionet-SOPs.git`) 
+1. Clone down the repository (`git clone https://github.com/h3abionet/H3ABioNet-ML-glossary.git`) 
 2. `cd` into the cloned directory
 3. Assuming Ruby is installed<sup>[1](#footnote1)</sup>, at the prompt, simply run `bundle`<sup>[2](#footnote2)</sup>.
 4. Run `bundle exec jekyll serve` to start the preview server
