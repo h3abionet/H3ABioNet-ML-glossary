@@ -10,12 +10,12 @@ permalink: Association-Rules-2-10.html
 folder: categories/supervised
 author_profile: true
 authors:
- - Liqian Ma
- - Amel Ghouila
- - Shakun Baichoo
- - Dassen Sathan
- - Olivier S.A.
- - Christopher Fields
+ - Liqian_Ma
+ - Amel_Ghouila
+ - Shakun_Baichoo
+ - Dassen_Sathan
+ - Olivier_S.A.
+ - Christopher_Fields
 ---
 
 ## Association Rules 
