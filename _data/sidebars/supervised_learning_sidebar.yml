@@ -34,6 +34,9 @@ entries:
     - title: Linear regression 
       url: /Linear-regression-2-1.html
       output: web, pdf
+    - title: Logistic Regression
+      url: /Logistic-Regression-2-11.html
+      output: web, pdf
     - title: Decision tree	
       url: /Decision-tree-2-2.html
       output: web, pdf
