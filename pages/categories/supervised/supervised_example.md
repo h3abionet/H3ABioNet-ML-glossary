@@ -1,5 +1,5 @@
 ---
-title: Introduction to supervised learning
+title: Supervised Learning
 keywords: supervised learning, classification, regression
 tags: [supervised_learning]
 last_updated: Feb 20, 2020
