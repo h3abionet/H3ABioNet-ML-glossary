@@ -50,7 +50,7 @@ entries:
       url: /K-Nearest-Neighbours-2-5.html
       output: web, pdf
     - title: Random Forest
-      url: /Random Forest-2-6.html
+      url: /Random-Forest-2-6.html
       output: web, pdf
     - title: Dimensionality Reduction Algorithms
       url: /Dimensionality-Reduction-Algorithms-2-7.html
