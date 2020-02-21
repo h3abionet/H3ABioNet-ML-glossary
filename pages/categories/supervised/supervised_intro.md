@@ -1,5 +1,5 @@
 ---
-title: Introduction to supervised learning
+title: Supervised Learning
 keywords: supervised learning, classification, regression
 tags: [supervised_learning]
 last_updated: Feb 20, 2020
@@ -15,7 +15,7 @@ authors:
  - Shakun_Baichoo
 ---
 
-# Supervised Learning
+# Supervised Learning Introduction
 
 Supervised machine learning is analogous to a student learning a subject by studying a set of questions and their corresponding answers. After mastering the mapping between questions and answers, the student can then provide answers to new (never-before-seen) questions on the same topic.
 Supervised learning is a data mining task of deducing a function from labelled training data. The training data consists of a set of training examples, where each consists of a pair of data containing an input and the desired output value. 
