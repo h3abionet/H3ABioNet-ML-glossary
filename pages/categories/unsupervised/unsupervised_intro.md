@@ -6,7 +6,7 @@ last_updated: Feb 28, 2020
 
 toc: false
 sidebar: unsupervised_learning_sidebar
-permalink: Unupervised-Learning-1-0.html
+permalink: Unsupervised-Learning-1-0.html
 folder: categories/unsupervised
 author_profile: true
 authors:
