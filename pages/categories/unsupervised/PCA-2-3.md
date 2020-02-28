@@ -14,4 +14,4 @@ authors:
 
 ## Principal Components Analysis
 
-## Aplications
+## Applications
