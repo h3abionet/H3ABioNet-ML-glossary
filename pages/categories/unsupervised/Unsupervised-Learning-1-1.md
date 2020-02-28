@@ -5,7 +5,7 @@ tags: [unsupervised_learning]
 last_updated: Feb 28, 2020
 toc: false
 sidebar: unsupervised_learning_sidebar
-permalink: intro_to_unsupervised.html
+permalink: Unsupervised-Learning-1-1.html
 folder: categories/unsupervised
 author_profile: true
 authors:
