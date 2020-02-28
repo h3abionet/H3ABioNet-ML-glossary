@@ -21,30 +21,30 @@ entries:
     output: web, pdf
     folderitems:
     - title: Introduction 
-      url: /Unsupervised-Learning-1-0.html
+      url: /unsupervised_learning_intro.html
       output: web, pdf
     - title: Example of Unsupervised Learning
-      url: /Unsupervised-Learning-1-1.html
+      url: /unsupervised_learning_example.html
       output: web, pdf
 
   - title: Common Algorithms of unsupervised Learning
-    url: /Unsupervised-Learning-2-0.html
+    url: /unsupervised_learning_intro.html
     output: web, pdf
     folderitems:
     - title: K-means clustering 
-      url: /K-means-clustering-2-1.html
+      url: /kmeans_clustering.html
       output: web, pdf
     - title: Hierarchical clustering
-      url: /Hierarchical-clustering-2-2.html
+      url: /hierarchical_clustering.html
       output: web, pdf
     - title: Principal Components Analysis 
-      url: /PCA-2-3.html
+      url: /pca.html
       output: web, pdf
     - title: DBSCAN 
-      url: /DBSCAN-2-4.html
+      url: /dbscan.html
       output: web, pdf
     - title: Self-Organizing Map
-      url: /Self-Organizing-Map-2-5.html
+      url: /self_organizing_map.html
       output: web, pdf
 
         
