@@ -2,7 +2,7 @@
 title: Introduction to unsupervised learning
 keywords: unsupervised learning, clustering, dimensionality reduction
 tags: [unsupervised_learning]
-last_updated: July 31, 2019
+last_updated: Feb 28, 2020
 toc: false
 sidebar: unsupervised_learning_sidebar
 permalink: intro_to_unsupervised.html
