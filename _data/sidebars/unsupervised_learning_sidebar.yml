@@ -1,0 +1,53 @@
+entries:
+- title: sidebar 
+  product: Unupervised Learning
+  version: 1.0
+  folders:
+
+  - title: 
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title: 
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Introduction 
+    output: web, pdf
+    folderitems:
+    - title: Introduction 
+      url: /Unsupervised-Learning-1-0.html
+      output: web, pdf
+    - title: Example of Unsupervised Learning
+      url: /Unsupervised-Learning-1-1.html
+      output: web, pdf
+
+  - title: Common Algorithms of unsupervised Learning
+    url: /Unsupervised-Learning-2-0.html
+    output: web, pdf
+    folderitems:
+    - title: K-means clustering 
+      url: /K-means-clustering-2-1.html
+      output: web, pdf
+    - title: DBSCAN 
+      url: /DBSCAN-2-2.html
+      output: web, pdf
+    - title: Principal Components Analysis 
+      url: /PCA-2-3.html
+      output: web, pdf
+    - title: Hierarchical clustering
+      url: /Hierarchical-clustering-2-4.html
+      output: web, pdf
+    - title: Self-Organizing Map
+      url: /Self-Organizing-Map-2-5.html
+      output: web, pdf
+
+        
+      
+      
+      
