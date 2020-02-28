@@ -11,3 +11,6 @@ author_profile: true
 authors:
  - Shakun_Baichoo,
 ---
+##DBSCAN
+
+##Applications
