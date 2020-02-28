@@ -17,8 +17,8 @@ authors:
  - Christopher Fields
 ---
 
-## K-means clustering
-The K-means algorithm was devised by MacQueen in 1967 and is one of the simplest unsupervised learning algorithms used for solving the clustering problem. It classifies a given data set through a certain number of clusters (assume k clusters). Data points inside a cluster are homogeneous and heterogeneous to peer groups.
+## k-means clustering
+The k-means algorithm was devised by MacQueen in 1967 and is one of the simplest unsupervised learning algorithms used for solving the clustering problem. It classifies a given data set through a predefined of clusters (set by the parameter k). Data points inside a cluster are homogeneous and heterogeneous to peer groups.
 
 ## Applications
-Used in gene expression studies to identify the functions of previously unstudied genes  - to reduce the data set <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3180043/">ref</a> 
+ * The k-means algorithm was used in a gene expression study to zoom in on a small subset of novel light-regulated RNA molecules in _Arabidopsis thaliana_ from microarray data <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3180043/">ref</a> 
