@@ -5,11 +5,16 @@ tags: [unsupervised_learning]
 last_updated: Feb 28, 2020
 toc: false
 sidebar: unsupervised_learning_sidebar
-permalink: PCA-2-3.html
+permalink: pca.html
 folder: categories/unsupervised
 author_profile: true
 authors:
- - Shakun_Baichoo,
+ - Liqian Ma
+ - Amel Ghouila
+ - Shakun Baichoo
+ - Dassen Sathan
+ - Olivier S.A.
+ - Christopher Fields
 ---
 
 ## Principal Components Analysis
