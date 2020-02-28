@@ -34,14 +34,14 @@ entries:
     - title: K-means clustering 
       url: /K-means-clustering-2-1.html
       output: web, pdf
-    - title: DBSCAN 
-      url: /DBSCAN-2-2.html
+    - title: Hierarchical clustering
+      url: /Hierarchical-clustering-2-2.html
       output: web, pdf
     - title: Principal Components Analysis 
       url: /PCA-2-3.html
       output: web, pdf
-    - title: Hierarchical clustering
-      url: /Hierarchical-clustering-2-4.html
+    - title: DBSCAN 
+      url: /DBSCAN-2-4.html
       output: web, pdf
     - title: Self-Organizing Map
       url: /Self-Organizing-Map-2-5.html
