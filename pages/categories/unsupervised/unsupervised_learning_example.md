@@ -5,11 +5,16 @@ tags: [unsupervised_learning]
 last_updated: Feb 28, 2020
 toc: false
 sidebar: unsupervised_learning_sidebar
-permalink: Unsupervised-Learning-1-1.html
+permalink: unsupervised_learning_example.html
 folder: categories/unsupervised
 author_profile: true
 authors:
- - Shakun_Baichoo,
+ - Liqian Ma
+ - Amel Ghouila
+ - Shakun Baichoo
+ - Dassen Sathan
+ - Olivier S.A.
+ - Christopher Fields
 ---
 
 ## Example
