@@ -60,15 +60,9 @@ var treeData = [
 	    	"name": "Known outcomes",
 		"parent": "Pre-processing",
 		"children":[
-		{
-			"name":"Predict a group (classification)"
-			"parent":"Known outcomes"
-		},
-		{
-			"name":"Predict a continuous value (regression)",
-			"parent":"Known outcomes"
-		}
-		],
+		{"name":"Predict a group (classification)", "parent":"Known outcomes"},
+		{"name":"Predict a continuous value (regression)", "parent":"Known outcomes"}
+		]
 	    }
 	    ]
           }
