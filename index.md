@@ -39,7 +39,7 @@ Biologists no longer rely on traditional laboratories to discover novel biomarke
 <div id="graph"></div>
 
 <!-- load the d3.js library -->	
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
 
 <script>
 
