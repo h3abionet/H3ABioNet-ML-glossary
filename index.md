@@ -49,16 +49,12 @@ var treeData = [
     "parent": "null",
     "children": [
       {
-        "name": "Level 2: A",
-        "parent": "Top Level",
+        "name": "Good data size",
+        "parent": "machine learning",
         "children": [
           {
-            "name": "Son of A",
-            "parent": "Level 2: A"
-          },
-          {
-            "name": "Daughter of A",
-            "parent": "Level 2: A"
+            "name": "Pre-processing",
+            "parent": "Good data size"
           }
         ]
       },
