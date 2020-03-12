@@ -45,7 +45,7 @@ Biologists no longer rely on traditional laboratories to discover novel biomarke
 
 var treeData = [
   {
-    "name": "Top Level",
+    "name": "machine learning",
     "parent": "null",
     "children": [
       {
@@ -62,10 +62,10 @@ var treeData = [
           }
         ]
       },
-      {
-        "name": "Level 2: B",
-        "parent": "Top Level"
-      }
+      { 
+        "name": "Inadequate data size",
+        "children": [{ "name": "Enrich set" }]
+      },
     ]
   }
   ];
