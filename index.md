@@ -43,7 +43,7 @@ Biologists no longer rely on traditional laboratories to discover novel biomarke
 
 <script>
 
-var treeData = [
+var treeData = 
   {
     "name": "Top Level",
     "parent": "null",
@@ -67,8 +67,7 @@ var treeData = [
         "parent": "Top Level"
       }
     ]
-  }
-];
+  };
 
 
 // ************** Generate the tree diagram	 *****************
