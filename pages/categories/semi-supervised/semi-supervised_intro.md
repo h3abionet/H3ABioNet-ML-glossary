@@ -19,3 +19,5 @@ authors:
 ---
 
 ### Semi-supervised Learning Introduction
+
+Semi-supervised learning is a class of supervised learning tasks and techniques that also make use of unlabeled data for training – typically a small amount of labeled data with a large amount of unlabeled data. Semi-supervised learning falls between unsupervised learning (without any labeled training data) and supervised learning (with completely labeled training data). It has been found that unlabeled data, when used in conjunction with a small amount of labeled data, improve the learning accuracy. 

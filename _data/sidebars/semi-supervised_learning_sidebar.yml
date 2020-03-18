@@ -1,0 +1,45 @@
+entries:
+- title: sidebar 
+  product: Semi-supervised Learning
+  version: 1.0
+  folders:
+
+  - title: 
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title: 
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Introduction 
+    output: web, pdf
+    folderitems:
+    - title: Introduction 
+      url: /Semi-supervised-Learning-1-0.html
+      output: web, pdf
+    - title: Example of Semi-supervised Learning in Omic Analysis
+      url: /Semi-supervised-Learning-1-1.html
+      output: web, pdf
+
+  - title: Common Algorithms of Semi-supervised Learning
+    url: /Semi-supervised-Learning-2-0.html
+    output: web, pdf
+    folderitems:
+    - title: Generative Models  
+      url: /Generative-models-2-1.html
+      output: web, pdf
+    - title: Low-Density Separation 
+      url: /Low-density-separation-2-2.html
+      output: web, pdf
+    - title: Graph-Based Methods	
+      url: /Graph-based-methods-2-3.html
+      output: web, pdf
+    - title: Change of Representation
+      url: /Change-of-representation-2-4.html
+      output: web, pdf
