@@ -228,8 +228,6 @@ This ML glossary repo was [forked from this H3ABioNet-SOPs repo](https://github.
 ### Funding
 The H3ABioNet Machine Learning Glossary was developped by the H3ABioNet Machine Learning and Big Data project members. The development of  is supported by the H3Africa program grant U24HG006941 from the National Human Genome Research Institute (NHGRI) of the National Institutes of Health (NIH) entitled “H3ABioNet: Informatics Solutions for H3Africa”. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
 
-### References
-
 [//]: <> (These are common abbreviations in the page.)
 *[ML]: Machine Learning
 *[H3Africa]: Human Heredity and Health in Afrcia Consortium
