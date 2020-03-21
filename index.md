@@ -70,17 +70,17 @@ var treeData = [
 		    },
 		    {
 		      "name":"Predict a continuous value (regression)",
-              "parent":"Known outcomes",
-			  "children":[
-			  {
-			    "name":"result validation",
-			    "parent":"Predict a continuous value (regression)",
-			    "children":[
-			    {
-			      "name":"cross validation",
-				  "parent":"result validation"
-			    }]
-			  }]
+                      "parent":"Known outcomes",
+		      "children":[
+		      {
+		        "name":"result validation",
+			"parent":"Predict a continuous value (regression)",
+			"children":[
+			{
+			  "name":"cross validation",
+			  "parent":"result validation"
+			 }]
+		      }]
 		    }]]
 		  }
         },
@@ -111,9 +111,10 @@ var treeData = [
       { 
         "name": "Inadequate data size",
 		"parent": "machine learning",
-        "children": [
+                "children":[
 		{
-		  "name": "Enrich set"
+		  "name": "Enrich set",
+		  "parent":"Inadequate data size"
 		}]
       }]
     }];
