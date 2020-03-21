@@ -1,0 +1,41 @@
+entries:
+- title: sidebar 
+  product: Reinforcement Learning
+  version: 1.0
+  folders:
+
+  - title: 
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title: 
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Introduction 
+    output: web, pdf
+    folderitems:
+    - title: Introduction 
+      url: /reinforcement_learning_intro.html
+      output: web, pdf
+    - title: Example of Reinforcement Learning
+      url: /unsupervised_learning_example.html
+      output: web, pdf
+
+  - title: Common Algorithms of Reinforcement Learning
+    url: /reinforcement_learning_intro.html
+    output: web, pdf
+    folderitems:
+    - title: K-means clustering 
+      url: /kmeans_clustering.html
+      output: web, pdf
+
+        
+      
+      
+      
