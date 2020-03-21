@@ -60,14 +60,15 @@ var treeData = [{
 						"parent": "Known outcomes",
 						"children": [{
 								"name": "Predict a group (classification)",
-								"parent": "Known outcomes"
+								"parent": "Supervised Learning"
 							},
 							{
 								"name": "Predict a continuous value (regression)",
-								"parent": "Known outcomes",
+								"parent": "Supervised Learning",
 								"children": [{
 									"name": "result validation",
 									"parent": "Predict a continuous value (regression)",
+									"parent": "Predict a group (classification)",
 									"children": [{
 										"name": "cross validation",
 										"parent": "result validation"
