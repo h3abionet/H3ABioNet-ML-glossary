@@ -48,34 +48,75 @@ var treeData = [
     "name": "machine learning",
     "parent": "null",
     "children": [
+	{
+      "name": "Good data size",
+      "parent": "machine learning",
+      "children": [
       {
-        "name": "Good data size",
-        "parent": "machine learning",
-        "children": [
-          {
-            "name": "Pre-processing",
-            "parent": "Good data size",
-	    "children": [
-	    {
-	    	"name": "Known outcomes",
-		"parent": "Pre-processing",
-		"children":[
-		{"name":"Predict a group (classification)", "parent":"Known outcomes"},
-		{"name":"Predict a continuous value (regression)", "parent":"Known outcomes"}
-		]
-	    }
-	    ]
-          }
-        ]
+        "name": "Pre-processing",
+        "parent": "Good data size",
+		"children": [
+		{
+		  "name": "Known outcomes",
+		  "parent": "Pre-processing",
+		  "children":[
+		  {
+		    "name":"Supervised Learning",
+		    "parent":"Known outcomes",
+		    "children":[
+		    {
+		      "name":"Predict a group (classification)",
+		      "parent":"Known outcomes"
+		    },
+		    {
+		      "name":"Predict a continuous value (regression)",
+              "parent":"Known outcomes",
+			  "children":[
+			  {
+			    "name":"result validation",
+			    "parent":"Predict a continuous value (regression)",
+			    "children":[
+			    {
+			      "name":"cross validation",
+				  "parent":"result validation"
+			    }]
+			  }]
+		    }]]
+		  }
+        },
+		{
+		  "name":"Unknown outcomes",
+		  "parent":"Pre-processing",
+		  "children":[
+		  {
+		    "name":"Unsupervised Learning",
+			"parent":"Unknown outcomes",
+			"children":[
+			{
+			  "name":"Identify groups (clustering)",
+			  "parent":"Unsupervised Learning",
+			},
+			{
+			  "name":"reduce number of variables",
+			  "parent":"Unsupervised Learning",
+			  "children":[
+			  {
+			  	"name":"PCA",
+				"parent":"reduce number of variables"
+			  }]
+			}]
+		  }]
+		}]
       },
       { 
         "name": "Inadequate data size",
-	"parent": "machine learning",
-        "children": [{ "name": "Enrich set" }]
-      },
-    ]
-  }
-  ];
+		"parent": "machine learning",
+        "children": [
+		{
+		  "name": "Enrich set"
+		}]
+      }]
+    }];
 
 
 // ************** Generate the tree diagram	 *****************
