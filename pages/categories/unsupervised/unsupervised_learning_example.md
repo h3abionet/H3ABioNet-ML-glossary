@@ -18,3 +18,4 @@ authors:
 ---
 
 ## Example
+Let's take as example a set of viral *pol* nucleotide sequences obtained from a laboratory. The *pol* sequence is a routinely sequenced (completely or in part) segment from the HIV viral genome and is done to assess the efficacy of antiretroviral treatment in HIV patients...
