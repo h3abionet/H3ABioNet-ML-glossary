@@ -126,7 +126,7 @@ var tree = d3.layout.tree()
 var diagonal = d3.svg.diagonal()
 	.projection(function(d) { return [d.y, d.x]; });
 
-var svg = d3.select("#graph").append("svg")
+var svg = d3.select("body").append("svg")
 	.attr("width", width + margin.right + margin.left)
 	.attr("height", height + margin.top + margin.bottom)
   .append("g")
@@ -162,22 +162,26 @@ function update(source) {
   var nodeEnter = node.enter().append("g")
 	  .attr("class", "node")
 	  .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
-	  <!-- .on("click", click); -->
-    ;
+		<!-- .on("click", click) -->
+	;
+
   nodeEnter.append("circle")
 	  .attr("r", 1e-6)
-	  .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
-          .on("click", click)
-    ;
-  nodeEnter
-  	  .append("a")
-	       .attr("xlink:href", function (d) { return d.url; })
-	      .append("text") 
+	  .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; })
+	  .on("click", click)
+	;
+
+	nodeEnter
+			.append("a")
+				 .attr("xlink:href", function (d) { return d.url; })
+		.append("text")
 	  .attr("x", function(d) { return d.children || d._children ? -13 : 13; })
 	  .attr("dy", ".35em")
-	  .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
+		.attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
 	  .text(function(d) { return d.name; })
-	  .style("fill-opacity", 1e-6);
+		.style("fill-opacity", 1e-6);
+
+
 
   // Transition nodes to their new position.
   var nodeUpdate = node.transition()
@@ -234,7 +238,8 @@ function update(source) {
 	d.x0 = d.x;
 	d.y0 = d.y;
   });
-  function nothing(d){}
+
+	function nothing(d){}
 }
 
 // Toggle children on click.
