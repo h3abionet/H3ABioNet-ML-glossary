@@ -45,6 +45,7 @@ Biologists no longer rely on traditional laboratories to discover novel biomarke
 	
 var treeData = [{
 	"name": "machine learning",
+	"url":"pages/introduction_to_ml.html",
 	"parent": "null",
 	"children": [{
 		"name": "Good data size",
