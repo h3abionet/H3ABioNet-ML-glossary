@@ -162,13 +162,17 @@ function update(source) {
   var nodeEnter = node.enter().append("g")
 	  .attr("class", "node")
 	  .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
-	  .on("click", click);
-
+	  <!-- .on("click", click); -->
+    ;
   nodeEnter.append("circle")
 	  .attr("r", 1e-6)
 	  .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
-
-  nodeEnter.append("text")
+          .on("click", click)
+    ;
+  nodeEnter
+  	  .append("a")
+	       .attr("xlink:href", function (d) { return d.url; })
+	      .append("text") 
 	  .attr("x", function(d) { return d.children || d._children ? -13 : 13; })
 	  .attr("dy", ".35em")
 	  .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
