@@ -234,6 +234,7 @@ function update(source) {
 	d.x0 = d.x;
 	d.y0 = d.y;
   });
+  function nothing(d){}
 }
 
 // Toggle children on click.
