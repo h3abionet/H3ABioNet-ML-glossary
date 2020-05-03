@@ -41,11 +41,9 @@ Biologists no longer rely on traditional laboratories to discover novel biomarke
 <!-- load the d3.js library -->	
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
 
-<script>
-
 var treeData = [{
 	"name": "machine learning",
-	"url":"https://www.google.com/search?q=Anmol+Kiran",
+	"url":"https://www.google.com/search?q=Anmol+Kiran"
 	"parent": "null",
 	"children": [{
 		"name": "Good data size",
@@ -57,7 +55,7 @@ var treeData = [{
 					"name": "Known outcomes",
 					"parent": "Pre-processing",
 					"children": [{
-						"name": "Supervised Learning",z
+						"name": "Supervised Learning",
 						"parent": "Known outcomes",
 						"children": [{
 								"name": "Predict a group (classification)",
@@ -128,7 +126,7 @@ var tree = d3.layout.tree()
 var diagonal = d3.svg.diagonal()
 	.projection(function(d) { return [d.y, d.x]; });
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#graph").append("svg")
 	.attr("width", width + margin.right + margin.left)
 	.attr("height", height + margin.top + margin.bottom)
   .append("g")
