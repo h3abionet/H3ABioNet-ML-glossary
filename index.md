@@ -57,7 +57,7 @@ var treeData = [{
 					"name": "Known outcomes",
 					"parent": "Pre-processing",
 					"children": [{
-						"name": "Supervised Learning",
+						"name": "Supervised Learning",z
 						"parent": "Known outcomes",
 						"children": [{
 								"name": "Predict a group (classification)",
