@@ -45,7 +45,7 @@ Biologists no longer rely on traditional laboratories to discover novel biomarke
 	
 var treeData = [{
 	"name": "machine learning",
-	"url":({{ site.baseurl}}{% link pages/introduction_to_ml.md %}),
+	"url":"https://h3abionet.github.io/H3ABioNet-ML-glossary/intro_to_ml.html",
 	"parent": "null",
 	"children": [{
 		"name": "Good data size",
