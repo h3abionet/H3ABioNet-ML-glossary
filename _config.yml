@@ -101,14 +101,15 @@ sidebars:
 - sops_sidebar
 - other
 
-# test
+# start test
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
 include:
-  -
+  - /pages/introduction_to_ml.md
+# end test
 
 description: "This website hosts the Standard Operating Procedures (SOPs) for common genomics data analysis tasks developed within the H3ABioNet consortium."
 # the description is used in the feed.xml file
