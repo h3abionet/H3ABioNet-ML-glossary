@@ -58,6 +58,7 @@ var treeData = [{
 					"parent": "Pre-processing",
 					"children": [{
 						"name": "Supervised Learning",
+						"url":"https://h3abionet.github.io/H3ABioNet-ML-glossary/Supervised-Learning-1-0.html",
 						"parent": "Known outcomes",
 						"children": [{
 								"name": "Predict a group (classification)",
