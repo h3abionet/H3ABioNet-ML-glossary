@@ -95,6 +95,7 @@ var treeData = [{
 								"parent": "Unsupervised Learning",
 								"children": [{
 									"name": "PCA",
+									"url":"https://h3abionet.github.io/H3ABioNet-ML-glossary/pca.html",
 									"parent": "reduce number of variables"
 								}]
 							}
