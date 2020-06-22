@@ -1,6 +1,6 @@
 entries:
 - title: sidebar 
-  product: Model performance
+  product: ML model performance
   version: 1.0
   folders:
 
@@ -18,22 +18,20 @@ entries:
       type: frontmatter
 
   - title: Introduction 
+    url: /performance_intro.html
     output: web, pdf
-    folderitems:
-    - title: Introduction 
-      url: /performance_intro.html
-      output: web, pdf
-    - title: Example of performance evaluation
-      url: /performance_example.html
-      output: web, pdf
+
+  - title: Example of performance evaluation
+    url: /performance_example.html
+    output: web, pdf
 
   - title: Measuring performance
     url: /performance_intro.html
     output: web, pdf
     folderitems:
-    - title: Assessment of regression models
+    - title: Regression models
       url: /regression_performance.html
       output: web, pdf
-    - title: Assessment of classification models
-      url: /hierarchical_clustering.html
+    - title: Classification models
+      url: /classification_performance.html
       output: web, pdf
