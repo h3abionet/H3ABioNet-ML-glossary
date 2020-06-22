@@ -1,6 +1,6 @@
 entries:
 - title: sidebar 
-  product: Unsupervised Learning
+  product: Model performance
   version: 1.0
   folders:
 
@@ -21,28 +21,19 @@ entries:
     output: web, pdf
     folderitems:
     - title: Introduction 
-      url: /unsupervised_learning_intro.html
+      url: /performance_intro.html
       output: web, pdf
-    - title: Example of Unsupervised Learning
-      url: /unsupervised_learning_example.html
+    - title: Example of performance evaluation
+      url: /performance_example.html
       output: web, pdf
 
-  - title: Common Algorithms of unsupervised Learning
-    url: /unsupervised_learning_intro.html
+  - title: Measuring performance
+    url: /performance_intro.html
     output: web, pdf
     folderitems:
-    - title: K-means clustering 
-      url: /kmeans_clustering.html
+    - title: Assessment of regression models
+      url: /regression_performance.html
       output: web, pdf
-    - title: Hierarchical clustering
+    - title: Assessment of classification models
       url: /hierarchical_clustering.html
-      output: web, pdf
-    - title: Principal Components Analysis 
-      url: /pca.html
-      output: web, pdf
-    - title: DBSCAN 
-      url: /dbscan.html
-      output: web, pdf
-    - title: Self-Organizing Map
-      url: /self_organizing_map.html
       output: web, pdf
