@@ -18,12 +18,14 @@ entries:
       type: frontmatter
 
   - title: Introduction 
-    url: /performance_intro.html
-    output: web, pdf
+    folderitems:
+    - title: Introduction
+      url: /performance_intro.html
+      output: web, pdf
 
-  - title: Example of performance evaluation
-    url: /performance_example.html
-    output: web, pdf
+    - title: Example
+      url: /performance_example.html
+      output: web, pdf
 
   - title: Measuring performance
     url: /performance_intro.html
