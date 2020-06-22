@@ -18,5 +18,5 @@ authors:
  - Christopher Fields
 ---
 
-## When should one decide on the types of performance metric to use
-Machine learning problems boil down to predicing discrete [eg. yes/no questions, taxonomy, levels of a factor (high, medium, low)] or continous variables (e.g. pi, height, weight, temperature). 
+## Which performance metrics should one use?
+Machine learning problems boil down to predicing discrete [eg. yes/no questions, taxonomy, levels of a factor (high, medium, low)] or continous variables (e.g. pi, height, weight, temperature).
