@@ -38,3 +38,6 @@ entries:
     - title: Classification models
       url: /classification_performance.html
       output: web, pdf
+    - title: Cross-validation
+      url: /crossvalidation.html
+      output: web, pdf
