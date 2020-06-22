@@ -17,7 +17,8 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Introduction 
+  - title: Introduction
+    output: web, pdf
     folderitems:
     - title: Introduction
       url: /performance_intro.html
