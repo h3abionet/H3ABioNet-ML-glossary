@@ -1,7 +1,7 @@
 This website is based on the [Documentation Jekyll theme](http://idratherbewriting.com/documentation-theme-jekyll/). [Jekyll](https://jekyllrb.com/), written in Ruby, is a "simple, blog-aware, static site generator".
 
 
-The live version of this website is accessible via: [https://h3abionet.github.io/H3ABionet-SOPs/](https://h3abionet.github.io/H3ABionet-SOPs/). However, you may host a local copy of this repo and view from from your browser- which is helpful in proposing changes to the site (See following sections).
+The live version of this website is accessible via: [https://h3abionet.github.io/H3ABioNet-ML-glossary](https://h3abionet.github.io/H3ABioNet-ML-glossary). However, you may host a local copy of this repo and view from from your browser- which is helpful in proposing changes to the site (See following sections).
 
 ## Locally building
 
