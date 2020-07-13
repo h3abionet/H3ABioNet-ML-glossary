@@ -46,7 +46,7 @@ A tabulation of the actual and predicted target values is done, to summarise the
   </tr>
 </table>
 
-By using this table, one can compute various metrics (listed below), and in the best of cases aim for values converging towards 100% correctness:
+By using this table, one can compute various metrics (some of which are listed below), and in the best of cases aim for values converging towards 100% correctness:
 * __Sensitivity__
 This tells how well the model predicts the positive cases
 * __Specificity__
