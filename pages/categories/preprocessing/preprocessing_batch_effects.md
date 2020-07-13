@@ -6,7 +6,7 @@ last_updated: Jul 13, 2020
 
 toc: false
 sidebar: preprocessing_sidebar
-permalink: preprocessing_intro.html
+permalink: preprocessing_batch_effects.html
 folder: categories/preprocessing
 author_profile: true
 authors:
