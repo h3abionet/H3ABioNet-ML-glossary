@@ -1,5 +1,5 @@
 ---
-title: Model cross-validation
+title: Measuring model performance
 keywords: cross-validation
 tags: [crossvalidation]
 last_updated: Jun 22, 2020
