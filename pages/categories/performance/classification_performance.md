@@ -21,13 +21,16 @@ authors:
 ## Assessing the performance of classification models
 A tabulation of the actual and predicted target values is done, to summarise the counts of samples that are correctly and incorrectly predicted. In predicting two values (eg. yes or no), typically the table would have two rows and two columns. The actual labels are read horizontally, while the predictions are read vertically <a href="https://www.wellformedness.com/blog/a-tutorial-on-contingency-tables/"></a>. However, this order can be reversed as well, but this should be mentioned. An example is given in the table below:
 
+
+
+
 <table>
   <tr>
-    <td colspan=3>Table 1: Contingency table</td>
+    <th colspan="3">Table 1: Contingency table</th>
   </tr>
   <tr>
     <td></td>
-    <td colspan=2><b>Actual labels</b></td>
+    <td colspan="2"><b>Actual labels</b></td>
   </tr>
   <tr>
     <td><b>Predicted labels</b></td>
