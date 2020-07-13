@@ -23,9 +23,16 @@ A tabulation of the actual and predicted target values is done, to summarise the
 
 <table>
   <tr>
-    <th>Predictions/Actual labels</th>
-    <th>positive</th>
-    <th>negative</th>
+    <th>Table 1: Contingency table</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Actual labels</td>
+  </tr>
+  <tr>
+    <th>Predicted labels</th>
+    <td>positive</td>
+    <td>negative</td>
   </tr>
   <tr>
     <td><b>positive</b></td>
