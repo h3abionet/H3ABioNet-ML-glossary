@@ -74,6 +74,7 @@ var treeData = [{
 									"parent": "Predict a group (classification)",
 									"children": [{
 										"name": "cross validation",
+										"url":"https://h3abionet.github.io/H3ABioNet-ML-glossary/crossvalidation.html",
 										"parent": "result validation"
 									}]
 								}]
