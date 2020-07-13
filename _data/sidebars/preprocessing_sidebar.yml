@@ -32,6 +32,8 @@ entries:
     url: /preprocessing_intro.html
     output: web, pdf
     folderitems:
+    - title: Feature extraction
+      url: /preprocessing_feature_extraction.html
     - title: Scaling
       url: /preprocessing_scaling.html
       output: web, pdf
