@@ -23,7 +23,7 @@ A tabulation of the actual and predicted target values is done, to summarise the
 
 <table>
   <tr>
-    <th colspan=3>Table 1: Contingency table</th>
+    <td colspan=3>Table 1: Contingency table</td>
   </tr>
   <tr>
     <td></td>
