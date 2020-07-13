@@ -52,7 +52,7 @@ var treeData = [{
 		"parent": "machine learning",
 		"children": [{
 				"name": "Pre-processing",
-				"url":"https://github.com/h3abionet/H3ABioNet-ML-glossary/preprocessing_intro.html",
+				"url":"https://h3abionet.github.io/H3ABioNet-ML-glossary/preprocessing_intro.html",
 				"parent": "Good data size",
 				"children": [{
 					"name": "Known outcomes",
