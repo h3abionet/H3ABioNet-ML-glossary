@@ -1,0 +1,43 @@
+entries:
+- title: sidebar 
+  product: Preprocessing
+  version: 1.0
+  folders:
+
+  - title: 
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title: 
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Introduction
+    output: web, pdf
+    folderitems:
+    - title: Introduction
+      url: /preprocessing_intro.html
+      output: web, pdf
+
+    - title: Example
+      url: /preprocessing_example.html
+      output: web, pdf
+
+  - title: Terminologies
+    url: /preprocessing_intro.html
+    output: web, pdf
+    folderitems:
+    - title: Scaling
+      url: /preprocessing_scaling.html
+      output: web, pdf
+    - title: Balanced/Unbalanced datasets
+      url: /preprocessing_balance.html
+      output: web, pdf
+    - title: Batch effects
+      url: /preprocessing_batch_effects.html
+      output: web, pdf
