@@ -28,21 +28,21 @@ A tabulation of the actual and predicted target values is done, to summarise the
     <th>negative</th>
   </tr>
   <tr>
-    <td>positive</td>
+    <td><b>positive</b></td>
     <td>True positives</td>
     <td>False negatives</td>
   </tr>
   <tr>
-    <td>negative</td>
+    <td><b>negative</b></td>
     <td>False positives</td>
     <td>True negatives</td>
   </tr>
 </table>
 
 By using this table, one can compute various metrics, such as:
-* The sensitivity
+* __Sensitivity__
 This tells how well the model predicts the positive cases
-* The specificity
+* __Specificity__
 This tells how well the model predicts the negative cases
-* The Accuracy
+* __Accuracy__
 This quantifies how extent that a model predicts both positives and negatives samples correctly.
