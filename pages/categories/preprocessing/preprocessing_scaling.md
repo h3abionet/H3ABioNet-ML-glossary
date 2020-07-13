@@ -18,7 +18,7 @@ Some machine learning algorithms are very sensitive to distance and tuned to wor
 
 Some of Scaling techniques:
 Min-max scaling: The minimum value that the input can take is scaled to –1 and the maximum possible value to 1:
-x_scaled = $\frac{2*x - max_x - min_x}{max_x - min_x}$.
+x_scaled = (2*x - max_x - min_x)(max_x - min_x).
 Clipping:The numeric value is linearly scaled between these two reasonable bounds, and then clipped to lie in the range [–1, 1].
 Z-score normalization: scaling the input using the mean and standard deviation estimated over the training dataset:
-x_scaled = $\frac{x - mean_x}/{stddev_x}$
+x_scaled = (x - mean_x)/(stddev_x)
