@@ -1,5 +1,5 @@
 ---
-title: Assessment of regression models
+title: Measuring model performance
 keywords: regression model performance
 tags: [regression_performance]
 last_updated: Jun 22, 2020
