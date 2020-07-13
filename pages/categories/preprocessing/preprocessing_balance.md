@@ -21,4 +21,4 @@ Some of balancing dataset techniques:
 * Undersampling: The idea is to reduce the ratio of observations between the majority and minority class, by randomly selecting observations in the desired ratio or use other methods like k-nearest neighbors algorithm(KNN) that can berserves signals which may be lost by random selection.
 * Oversampling: This method populates the minority class with synthetical observations based on the available data. Some algorithms that are used for this: Variational Autoencoders (VAE), and Synthetic Minority Over-sampling Technique(SMOTE).
 
-<img src="/figures/Unbalanced_datasets.png" width="500" height="250">
+![image]({{ site.baseurl }}/figures/Unbalanced_datasets.png)
