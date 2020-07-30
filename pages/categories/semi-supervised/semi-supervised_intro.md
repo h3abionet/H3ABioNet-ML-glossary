@@ -23,7 +23,7 @@ Semi-supervised learning is a class of supervised learning tasks and techniques 
 
 ![image]({{ site.baseurl }}/figures/SSL.png)
 
-Link to image source: https://towardsdatascience.com/supervised-learning-but-a-lot-better-semi-supervised-learning-a42dff534781  
+Link to image <a href="https://towardsdatascience.com/supervised-learning-but-a-lot-better-semi-supervised-learning-a42dff534781">source</a>:  
 
 There are many applications of semi-supervised algorithms in bioinformatics. This approach has been used for disease gene prediction (<a href="http://www.jaist.ac.jp/~bao/papers/N198.pdf">Thanh and Tu, 2007</a>), gene ontology terms prediction (<a href="http://www.scielo.org.co/pdf/rfiua/n79/n79a03.pdf">Jaramillo-Garzón et al, 2016</a>) and the identification of molecular phenotypes (<a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2885-3">Roder et al, 2019</a>) among many others.
 
