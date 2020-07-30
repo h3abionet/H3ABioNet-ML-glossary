@@ -32,13 +32,13 @@ entries:
     output: web, pdf
     folderitems:
     - title: Generative Models  
-      url: /Generative-models-2-1.html
+      url: /generative_models.html
       output: web, pdf
+    - title: Graph-Based Methods	
+      url: /graph_based_methods.html
     - title: Low-Density Separation 
       url: /Low-density-separation-2-2.html
       output: web, pdf
-    - title: Graph-Based Methods	
-      url: /Graph-based-methods-2-3.html
       output: web, pdf
     - title: Change of Representation
       url: /Change-of-representation-2-4.html
