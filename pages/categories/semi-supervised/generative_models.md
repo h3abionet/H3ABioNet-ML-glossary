@@ -7,7 +7,7 @@ last_updated: Jul 30, 2020
 toc: false
 sidebar: semi-supervised_learning_sidebar
 permalink: generative_models.html
-folder: categories/generative_models
+folder: categories/semi-supervised
 author_profile: true
 authors:
  - Mohammed Sabry
