@@ -21,7 +21,7 @@ entries:
     output: web, pdf
     folderitems:
     - title: Introduction 
-      url: /Semi-supervised-Learning-1-0.html
+      url: /semi-supervised_intro.html
       output: web, pdf
     - title: Example of Semi-supervised Learning in Omic Analysis
       url: /Semi-supervised-Learning-1-1.html
