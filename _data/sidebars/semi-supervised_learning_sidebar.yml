@@ -23,11 +23,11 @@ entries:
     - title: Introduction 
       url: /semi-supervised_intro.html
       output: web, pdf
-    - title: Example of Semi-supervised Learning in Omic Analysis
-      url: /Semi-supervised-Learning-1-1.html
+    - title: Examples of SSL applications in Omic and other fields
+      url: /semi-supervised_example.html
       output: web, pdf
 
-  - title: Common Algorithms of Semi-supervised Learning
+  - title: Common Algorithms of SSL
     url: /Semi-supervised-Learning-2-0.html
     output: web, pdf
     folderitems:
