@@ -6,8 +6,8 @@ last_updated: Jul 30, 2020
 
 toc: false
 sidebar: semi-supervised_learning_sidebar
-permalink: generative_models.html
-folder: categories/generative_models
+permalink: graph_based_methods.html
+folder: categories/graph_based_methods
 author_profile: true
 authors:
  - Mohammed Sabry
