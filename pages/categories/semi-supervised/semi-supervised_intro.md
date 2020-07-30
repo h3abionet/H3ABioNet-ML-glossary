@@ -6,7 +6,7 @@ last_updated: Mar 17, 2020
 
 toc: false
 sidebar: semi-supervised_learning_sidebar
-permalink: Semi-supervised-Learning-1-0.html
+permalink: semi-supervised_intro.html
 folder: categories/supervised
 author_profile: true
 authors:
