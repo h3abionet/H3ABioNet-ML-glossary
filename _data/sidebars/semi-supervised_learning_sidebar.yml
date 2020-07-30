@@ -36,9 +36,12 @@ entries:
       output: web, pdf
     - title: Graph-Based Methods	
       url: /graph_based_methods.html
+      output: web, pdf
     - title: Low-Density Separation 
       url: /Low-density-separation-2-2.html
       output: web, pdf
+    - title: Proxy-label Methods 
+      url: /proxy_label_methods.html
       output: web, pdf
     - title: Change of Representation
       url: /Change-of-representation-2-4.html
