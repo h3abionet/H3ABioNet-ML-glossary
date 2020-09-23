@@ -52,7 +52,7 @@ authors:
 				<li>developed for data analysis, hence has more powerful statistical packages</li>
 				<li>Easy to use for complicated mathematical calculations and statistical tests</li>
 				<li>Better for visualization</li>
-				<li>Can be used for Deep Learning</td>
+				<li>Can be used for Deep Learning</li>
 			</ul>
 		</td>
 		<td>
