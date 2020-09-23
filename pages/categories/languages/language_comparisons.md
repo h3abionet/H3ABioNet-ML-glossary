@@ -54,12 +54,13 @@ authors:
 				<li>Better for visualization</li>
 				<li>Can be used for Deep Learning</td>
 			</ul>
+		</td>
 		<td>
 			<ul>
 				<li>good for building something new from scratch</li>
 				<li> Used for application development</li>
 				<li> Python’s statistical packages are less powerful</li>
-				<li> Better for Deep Learning</td>
+				<li> Better for Deep Learning</li>
 			</ul>
 		</td>
 		<td>
