@@ -83,8 +83,5 @@ authors:
 	</tr>
 </table>
 
-References: 
-<a href="https://www.openriskmanual.org/wiki/Overview_of_the_Julia-Python-R_Universe">[1]</a>
-<a href="https://www.machinelearningplus.com/julia/julia-programming-language/">[2]</a>
-<a href="https://www.educba.com/machine-learning-vs-statistics/">[3]</a>
+References: <a href="https://www.openriskmanual.org/wiki/Overview_of_the_Julia-Python-R_Universe">[1]</a>, <a href="https://www.machinelearningplus.com/julia/julia-programming-language/">[2]</a>, <a href="https://www.educba.com/machine-learning-vs-statistics/">[3]</a>
 
