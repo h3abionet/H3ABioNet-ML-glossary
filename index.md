@@ -267,6 +267,7 @@ function click(d) {
 * [Supervised Learning]({{ site.baseurl}}{% link pages/categories/supervised/supervised_intro.md %})
 * [Unsupervised Learning]({{ site.baseurl}}{% link pages/categories/unsupervised/unsupervised_learning_intro.md %})
 * [Semi-supervised Learning]({{ site.baseurl}}{% link pages/categories/semi-supervised/semi-supervised_intro.md %})
+* [Reinforcement Learning]({{ site.baseurl}}{% link pages/categories/reinforcement/reinforcement_learning_intro.md %})
 * [Assessing model performance]({{ site.baseurl}}{% link pages/categories/performance/performance_intro.md %})
 * [Choosing the right estimator]({{ site.baseurl}}{% link pages/choosing_estimator/choosing_estimator.md %})
 * [Comparison of programming languages]({{ site.baseurl}}{% link pages/categories/languages/language_comparisons.md %})
