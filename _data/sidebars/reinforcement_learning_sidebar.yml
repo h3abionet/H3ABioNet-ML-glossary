@@ -24,15 +24,15 @@ entries:
       url: /reinforcement_learning_intro.html
       output: web, pdf
     - title: Example of Reinforcement Learning
-      url: /unsupervised_learning_example.html
+      url: /reinforcement_learning_example.html
       output: web, pdf
 
   - title: Common Algorithms of Reinforcement Learning
-    url: /reinforcement_learning_intro.html
+    url: /reinforcement_learning_algorithms.html
     output: web, pdf
     folderitems:
-    - title: K-means clustering 
-      url: /kmeans_clustering.html
+    - title: Reinforcement Learning algorithms 
+      url: /reinforcement_learning_algorithms.html
       output: web, pdf
 
         
