@@ -17,4 +17,5 @@ Reinforcement Learning (RL) is a machine learning technique that combines ideas 
 In the diagram below, the dog (the agent) observes signals from the trainer and tries to update its response (policy) to the provided cues. In this case, the environment is defined by the available space and the human - who gives a positive feedback to the agent upon satisfactory responses (or negative/no reward upon failure). <a href="https://www.kdnuggets.com/2019/10/mathworks-reinforcement-learning.html">ref</a>
 
 ![image]({{ site.baseurl }}/figures/RL.png)
+
 Figure 1. Overview of reinforcement learning, where the agent updates its actions based on observations and feedback from its environment. <a href="https://www.kdnuggets.com/2019/10/mathworks-reinforcement-learning.html">source</a>
