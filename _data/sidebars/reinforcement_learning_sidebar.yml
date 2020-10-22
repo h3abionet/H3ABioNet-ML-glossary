@@ -23,6 +23,12 @@ entries:
     - title: Introduction 
       url: /reinforcement_learning_intro.html
       output: web, pdf
+    - title: The environment
+      url: /reinforcement_environment.html
+      output: web, pdf
+    - title: The RL agent
+      url: /reinforcement_agent.html
+      output: web, pdf
     - title: Example of Reinforcement Learning
       url: /reinforcement_learning_example.html
       output: web, pdf
