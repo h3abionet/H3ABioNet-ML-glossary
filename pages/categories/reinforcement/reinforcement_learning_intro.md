@@ -18,4 +18,4 @@ In the diagram below, the dog (the agent) observes signals from the trainer and 
 
 ![image]({{ site.baseurl }}/figures/RL.png)
 
-Figure 1. Overview of reinforcement learning, where the agent updates its actions based on observations and feedback from its environment. <a href="https://www.kdnuggets.com/2019/10/mathworks-reinforcement-learning.html">source</a>
+<br/>Figure 1. Overview of reinforcement learning, where the agent updates its actions based on observations and feedback from its environment. <a href="https://www.kdnuggets.com/2019/10/mathworks-reinforcement-learning.html">source</a>
