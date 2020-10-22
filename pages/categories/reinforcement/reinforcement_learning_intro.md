@@ -1,5 +1,5 @@
 ---
-title: Introduction to unsupervised learning
+title: Reinforcement learning
 keywords: reinforcement learning
 tags: [reinforcement_learning]
 last_updated: October 22, 2020
