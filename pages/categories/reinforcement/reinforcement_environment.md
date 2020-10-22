@@ -5,7 +5,7 @@ tags: [reinforcement_learning]
 last_updated: October 22, 2020
 toc: false
 sidebar: reinforcement_learning_sidebar
-permalink: environment.html
+permalink: reinforcement_environment.html
 folder: 
 author_profile: true
 authors:
