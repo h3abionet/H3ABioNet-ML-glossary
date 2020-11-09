@@ -12,7 +12,7 @@ authors:
  - Olivier Sheik Amamuddy,
 ---
 ## The learning environment
-The RL environment is dynamic, and is defined by a set of states <a href="http://ijcta.com/documents/volumes/vol2issue1/ijcta2011020115.pdf">ref<a/>, 
+The RL environment is dynamic, and is defined by a set of states <a href="http://ijcta.com/documents/volumes/vol2issue1/ijcta2011020115.pdf"><a/>, 
 which the agent can observe <a href="https://www.cs.toronto.edu/~zemel/documents/411/rltutorial.pdf"><a/> and interact with. 
 It is often represented as a simulation, but can also be a real physical system 
 <a href="https://www.kdnuggets.com/2019/10/mathworks-reinforcement-learning.html"><a/>. 
