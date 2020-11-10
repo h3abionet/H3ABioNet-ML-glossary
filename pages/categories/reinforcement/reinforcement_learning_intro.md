@@ -6,7 +6,7 @@ last_updated: October 22, 2020
 toc: false
 sidebar: reinforcement_learning_sidebar
 permalink: reinforcement_learning_intro.html
-folder: 
+folder: categories/reinforcement
 author_profile: true
 authors:
  - Olivier Sheik Amamuddy,
