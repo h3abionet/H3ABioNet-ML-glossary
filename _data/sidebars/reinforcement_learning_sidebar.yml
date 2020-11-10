@@ -32,7 +32,7 @@ entries:
     - title: Additional elements of RL
       url: /reinforcement_elements.html
       output: web, pdf
-    - title: Example of Reinforcement Learning
+    - title: Examples of Reinforcement Learning
       url: /reinforcement_learning_example.html
       output: web, pdf
 
