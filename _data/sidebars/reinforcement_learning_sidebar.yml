@@ -35,15 +35,6 @@ entries:
     - title: Examples of Reinforcement Learning
       url: /reinforcement_learning_example.html
       output: web, pdf
-
-  - title: Common Algorithms of Reinforcement Learning
-    url: /reinforcement_learning_algorithms.html
-    output: web, pdf
-    folderitems:
-    - title: Reinforcement Learning algorithms 
-      url: /reinforcement_learning_algorithms.html
-      output: web, pdf
-
         
       
       
