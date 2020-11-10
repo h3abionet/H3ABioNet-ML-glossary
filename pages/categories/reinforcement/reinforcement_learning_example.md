@@ -13,14 +13,10 @@ authors:
 ---
 
 ## Application examples 
-* A Reinforcement Learning Model for Solving the Folding Problem <a href="http://ijcta.com/documents/volumes/vol2issue1/ijcta2011020115.pdf"></a>
+* Czibula and co-workers used Q-Learning in an environment (state-space) composed of all posible left, up, right and down moves to propose models for solving the 3D structure protein specified by its hydrophobicity and hydrophilicity <a href="http://ijcta.com/documents/volumes/vol2issue1/ijcta2011020115.pdf"></a>
 
-* A novel state space representation for the solution of 2D-HP protein folding problem using reinforcement learning methods <a href="https://www.sciencedirect.com/science/article/pii/S1568494614005055"></a>
+* Doğan and Ölmez have proposed a novel state space representation for predicting protein folds using a variant of Q-Learning <a href="https://www.sciencedirect.com/science/article/pii/S1568494614005055"></a>
 
-* Using Reinforcement Learning on genome rearrangement problems <a href="https://www.ic.unicamp.br/~reltech/PFG/2018/PFG-18-19.pdf"></a>
+* Velloso and colleagues used several RL algorithms to attempt comparing the relationship between different genomes, represented as permuted blocks of genes <a href="https://www.ic.unicamp.br/~reltech/PFG/2018/PFG-18-19.pdf"></a>
 
-* Objective-Reinforced Generative Adversarial Networks (ORGAN) for sequence generation models <a href="https://arxiv.org/pdf/1705.10843.pdf"></a>
-
-* Using deep reinforcement learning to speed up collective cell migration <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3126-5"></a>
-
-
+* Guimaraes and co-workers studied the relationship between leading and following cells in collective cell migration using Deep Q-Networks <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3126-5"></a>
