@@ -11,6 +11,7 @@ author_profile: true
 authors:
  - Olivier Sheik Amamuddy,
 ---
+
 ## Application examples 
 * A Reinforcement Learning Model for Solving the Folding Problem <a href="http://ijcta.com/documents/volumes/vol2issue1/ijcta2011020115.pdf"></a>
 
