@@ -29,6 +29,9 @@ entries:
     - title: The RL agent
       url: /reinforcement_agent.html
       output: web, pdf
+    - title: Additional elements of RL
+      url: /reinforcement_elements.html
+      output: web, pdf
     - title: Example of Reinforcement Learning
       url: /reinforcement_learning_example.html
       output: web, pdf
