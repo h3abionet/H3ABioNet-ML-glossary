@@ -2,7 +2,7 @@
 title: Preprocessing
 keywords: Preprocessing
 tags: [preprocessing]
-last_updated: Jul 13, 2020
+last_updated: Feb 25, 2021
 
 toc: false
 sidebar: preprocessing_example
@@ -13,7 +13,7 @@ authors:
  - Dassen Sathan
 ---
 
-## 
+## Preprocessing example, using feature extraction and reduction
 To illustrate the concept of feature extraction and reduction, a dataset from the Wisconsin Breast Cancer Dataset will be used and it is composed of 30 features . 
 
 ```python
