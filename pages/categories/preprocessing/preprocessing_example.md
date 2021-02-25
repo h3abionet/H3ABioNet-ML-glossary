@@ -84,3 +84,4 @@ for l in np.unique(labels):
             ax.text(max_Var[i,0]* 1.15, max_Var[i,1] * 1.15, max_Var[i,2] * 1.15, labels[i],      
                     color = 'g', fontsize=14, ha = 'center', va = 'center')
 ```
+![image]({{ site.baseurl }}/figures/pcafig.png)
