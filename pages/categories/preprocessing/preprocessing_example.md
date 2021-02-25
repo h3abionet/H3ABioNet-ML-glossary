@@ -5,7 +5,7 @@ tags: [preprocessing]
 last_updated: Feb 25, 2021
 
 toc: false
-sidebar: preprocessing_example
+sidebar: preprocessing_sidebar
 permalink: preprocessing_example.html
 folder: categories/preprocessing
 author_profile: true
