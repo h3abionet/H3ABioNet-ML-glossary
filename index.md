@@ -269,8 +269,8 @@ function click(d) {
 * [Semi-supervised Learning]({{ site.baseurl}}{% link pages/categories/semi-supervised/semi-supervised_intro.md %})
 * [Reinforcement Learning]({{ site.baseurl}}{% link pages/categories/reinforcement/reinforcement_learning_intro.md %})
 * [Assessing model performance]({{ site.baseurl}}{% link pages/categories/performance/performance_intro.md %})
-* [Choosing the right estimator]({{ site.baseurl}}{% link pages/choosing_estimator/choosing_estimator.md %})
 * [Comparison of programming languages]({{ site.baseurl}}{% link pages/categories/languages/language_comparisons.md %})
+* [Choosing the right estimator]({{ site.baseurl}}{% link pages/choosing_estimator/choosing_estimator.md %})
 
 You can use the buttons at the top of the page to navigate through the Glossary different terms, or the side panel to access the subsections within each.
 
