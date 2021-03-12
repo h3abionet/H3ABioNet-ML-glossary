@@ -13,6 +13,9 @@ authors:
  - Dassen Sathan
 ---
 
+## Interactivity test
+<iframe src="https://trinket.io/embed/python3/788f9c9f54" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 ## Preprocessing example, using feature extraction and reduction
 To illustrate the concept of feature extraction and reduction, a dataset from the Wisconsin Breast Cancer Dataset will be used and it is composed of 30 features.
 
