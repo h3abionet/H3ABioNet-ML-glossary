@@ -16,6 +16,9 @@ authors:
 ## Interactivity test
 <iframe src="https://trinket.io/embed/python3/788f9c9f54" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+## test
+<iframe src="https://colab.research.google.com/drive/198_vWaY1okoaS8_v18yJmd8Ijv2sm5EW#scrollTo=xcktJtXpMClS&line=2&uniqifier=1"> </iframe>
+
 ## Preprocessing example, using feature extraction and reduction
 To illustrate the concept of feature extraction and reduction, a dataset from the Wisconsin Breast Cancer Dataset will be used and it is composed of 30 features.
 
