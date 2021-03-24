@@ -23,7 +23,7 @@ cancer = load_breast_cancer()
 cancer_df=pd.DataFrame(cancer.data,columns=cancer.feature_names)
 cancer_df.iloc[:, 2:].head(10) 
 ```
-<div class="datatable-begin"></div>
+
 |mean perimeter|mean area|mean smoothness|mean compactness|mean concavity|mean concave points|mean symmetry|mean fractal dimension|radius error|texture error|perimeter error|area error|smoothness error|compactness error|concavity error|concave points error|symmetry error|fractal dimension error|worst radius|worst texture|worst perimeter|worst area|worst smoothness|worst compactness|worst concavity|worst concave points|worst symmetry|worst fractal dimension|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 122.8|1001.0|0.1184|0.2776|0.3001|0.1471|0.2419|0.07871|1.095|0.9053|8.589|153.4|0.006399|0.04904|0.05373|0.01587|0.03003|0.006193|25.38|17.33|184.6|2019.0|0.1622|0.6656|0.7119|0.2654|0.4601|0.1189
@@ -36,7 +36,7 @@ cancer_df.iloc[:, 2:].head(10)
 90.2|577.9|0.1189|0.1645|0.09366|0.05985|0.2196|0.07451|0.5835|1.377|3.856|50.96|0.008805|0.03029|0.02488|0.01448|0.01486|0.005412|17.06|28.14|110.6|897.0|0.1654|0.3682|0.2678|0.1556|0.3196|0.1151
 87.5|519.8|0.1273|0.1932|0.1859|0.09353|0.235|0.07389|0.3063|1.002|2.406|24.32|0.005731|0.03502|0.03553|0.01226|0.02143|0.003749|15.49|30.73|106.2|739.3|0.1703|0.5401|0.539|0.206|0.4378|0.1072
 83.97|475.9|0.1186|0.2396|0.2273|0.08543|0.203|0.08243|0.2976|1.599|2.039|23.94|0.007149|0.07217|0.07743|0.01432|0.01789|0.01008|15.09|40.68|97.65|711.4|0.1853|1.058|1.105|0.221|0.4366|0.2075
-<div class="datatable-end"></div>
+
 
 Using the `head()` method we can clearly see the **28 features** corresponding to each column name of the data set (e.g. mean perimeter, mean area, etc) for first 10 biological samples. Because of limitations in hardware resources and the training efficiency of certain ML algorithms, high dimensionality may often pose difficulties due to sheer size of the dataset. For this reason we commonly have to employ feature extraction and reduction techniques. One such useful method is the principal component analysis (PCA). In the following steps the number of features is been reduced to 3 principal components that can be easily visualized using a 2D/3D scatter plot. The cancer is either malignant (shown as red dot) or benign (shown as green star)
 
