@@ -14,7 +14,7 @@ authors:
 ---
 
 ## Preprocessing example, using feature extraction and reduction
-To illustrate the concept of feature extraction and reduction, a dataset from the Wisconsin Breast Cancer Dataset will be used and it is composed of 30 features.
+To illustrate the concept of feature extraction and reduction, a dataset from the Wisconsin Breast Cancer Dataset will be used. While it is composed of 30 features (columns), only 10 are shown.
 
 ```python
 from sklearn.datasets import load_breast_cancer
