@@ -100,3 +100,6 @@ for l in np.unique(labels):
 ```
 ![image]({{ site.baseurl }}/figures/pcafig.png)
 
+## Interactivity console
+Here is an interactive console with the loaded cancer dataset to try out:
+<iframe src="https://trinket.io/embed/python3/788f9c9f54" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
