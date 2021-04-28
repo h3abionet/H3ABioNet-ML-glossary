@@ -6,7 +6,7 @@ last_updated: Feb 25, 2021
 
 toc: false
 sidebar: preprocessing_sidebar
-permalink: preprocessing_example.html
+permalink: preprocessing_example1.html
 folder: categories/preprocessing
 author_profile: true
 authors:
