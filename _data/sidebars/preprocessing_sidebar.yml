@@ -24,8 +24,11 @@ entries:
       url: /preprocessing_intro.html
       output: web, pdf
 
-    - title: Example
-      url: /preprocessing_example.html
+    - title: Example 1
+      url: /preprocessing_example1.html
+      output: web, pdf
+    - title: Example 2
+      url: /preprocessing_example2.html
       output: web, pdf
 
   - title: Terminologies
