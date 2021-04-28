@@ -96,7 +96,7 @@ sc.tl.umap(adata_all)
 ```python
 sc.pl.umap(adata_all, color=['batch', 'celltype'], palette=sc.pl.palettes.vega_20_scanpy)
 ```
-![image]({{ site.baseurl }}/figures/batch_effects_1.png)
+![image]({{ site.baseurl }}/figures/batcheffect_1.png)
 
 There's a batch effect. It can be well-resolved using BBKNN [Polanski19].
 
@@ -114,4 +114,4 @@ sc.tl.umap(adata_all)
 ```python
 sc.pl.umap(adata_all, color=['batch', 'celltype'])
 ```
-![image]({{ site.baseurl }}/figures/batch_effects_2.png)
+![image]({{ site.baseurl }}/figures/batcheffect_2.png)
