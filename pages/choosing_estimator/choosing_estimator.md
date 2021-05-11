@@ -1,12 +1,12 @@
 ---
-title: Unsupervised Learning
-keywords: unsupervised learning
-tags: [unsupervised_learning]
+title: Choosing an estimator
+keywords: Choosing an estimator
+tags: [estimator]
 last_updated: Feb 28, 2020
 
 toc: false
 permalink: choosing_estimator.html
-folder: categories/choosing_estimator
+folder: choosing_estimator
 author_profile: False
 
 <img src="https://scikit-learn.org/stable/_static/ml_map.png" width="100%">
