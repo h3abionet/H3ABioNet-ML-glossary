@@ -5,6 +5,7 @@ tags: [estimator]
 last_updated: Feb 28, 2020
 
 toc: false
+sidebar: choosing_estimator
 permalink: choosing_estimator.html
 folder: choosing_estimator
 author_profile: False
