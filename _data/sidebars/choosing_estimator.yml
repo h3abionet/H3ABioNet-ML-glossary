@@ -1,0 +1,14 @@
+entries:
+- title: sidebar 
+  product: Choosing an estimator
+  version: 1.0
+  folders:
+
+  - title: Choosing an estimator
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title: 
+      url: /choosing_estimator.html
+      output: pdf
+      type: frontmatter
