@@ -1,3 +1,5 @@
+[![fair-software.eu](https://img.shields.io/badge/fair--software.eu-%E2%97%8F%20%20%E2%97%8B%20%20%E2%97%8B%20%20%E2%97%8B%20%20%E2%97%8B-red)](https://fair-software.eu)
+
 This website is based on the [Documentation Jekyll theme](http://idratherbewriting.com/documentation-theme-jekyll/). [Jekyll](https://jekyllrb.com/), written in Ruby, is a "simple, blog-aware, static site generator".
 
 
